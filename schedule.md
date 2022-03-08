@@ -1,5 +1,5 @@
 # Schedule
-return to [home page](https://claraturp.github.io/Website_Test/)
+return to [home page](https://claraturp.github.io/BiblioTECH/)
 
 ### Table of Content
 1. [Day 1: August 8th](#Monday)
