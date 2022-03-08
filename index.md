@@ -1,5 +1,6 @@
 # Welcome to BiblioTECH
 # August 8th 2022 - August 12th 2022.
+[Cliquez ici pour accéder au site en français](https://claraturp.github.io/BiblioTECH/index-fr.html) <br>
 
 ## About BiblioTECH
 
@@ -9,13 +10,8 @@ This week-long bilingual program is designed for students in the Masters of Info
 Our goal is to give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
 
 ## Quick Links
-[Cliquez ici pour accéder au site en français](https://claraturp.github.io/BiblioTECH/index-fr.html) <br>
 [Click here for the Schedule](https://claraturp.github.io/BiblioTECH/schedule.html) <br>
-
-## About the Application Process
-Important dates: 
-* April: Call for applications
-* May: deadline for applications
+[Click here to apply](https://claraturp.github.io/BiblioTECH/applicationProccess.html) <br>
 
 ## DELETE THIS
 [Click here for information about MARKDOWN language](https://claraturp.github.io/BiblioTECH/markdown.html)
