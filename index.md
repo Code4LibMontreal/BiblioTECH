@@ -1,5 +1,5 @@
 # Welcome to BiblioTECH
-[Cliquez ici pour accéder au site en français](/index-fr.html) <br>
+[Cliquez ici pour accéder au site en français](https://claraturp.github.io/BiblioTECH/schedule.html) <br>
 
 
 [Click here for the Schedule](https://claraturp.github.io/BiblioTECH/schedule.html) <br>
