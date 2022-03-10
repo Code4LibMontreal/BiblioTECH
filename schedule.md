@@ -1,7 +1,8 @@
 # Schedule
-return to [home page](https://claraturp.github.io/BiblioTECH/)
+<a href="https://claraturp.github.io/BiblioTECH/" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Return to the home page</a>
 
 ### Table of Content
+<a href="#Monday" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Day 1: August 8th</a>
 1. [Day 1: August 8th](#Monday)
 2. [Day 2: August 9th](#Tuesday)
 3. [Day 3: August 10th](#Wednesday)
