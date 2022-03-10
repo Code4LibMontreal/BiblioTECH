@@ -11,7 +11,7 @@ Our goal is to give participants the tools and confidence to pursue tech-related
 
 ## Quick Links
 [Click here for the Schedule](https://claraturp.github.io/BiblioTECH/schedule.html) <br>
-[Click here to apply](https://claraturp.github.io/BiblioTECH/applicationProccess.html) <br>
+[Click here to apply](https://claraturp.github.io/BiblioTECH/applicationProcess.html) <br>
 
 ## Important information
 ### This program is bilingual
