@@ -5,22 +5,34 @@
 ## About BiblioTECH
 
 Code4Lib Mtl is proud to announce the first BiblioTECH Jumpstart Program that will occur from August 8th  to August 12th, 2022. <br>
- 
-This week-long bilingual program is designed for students in the Masters of Information Studies programs in Quebec. The program is designed to introduce participants to core tech skills (such as Git, Excel, OpenRefine, and Python), present important concepts such as Research Data Management and Digital Preservation, and finally, showcase the large variety of possibilities in the realm of tech-related jobs in libraries and archives. <br>
-Our goal is to give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
+<br>
+This week-long bilingual program is designed for students in the Masters of Information Studies programs in Quebec. It will be offered virtually.  <br>
+This program was based on the [Library Technology career Jumpstart Program at North Carolina State University](https://www.lib.ncsu.edu/jumpstart)<br>
+<br>
+### This program will introduce participants to:
+* Core tech skills, such as Git, Excel, OpenRefine and Python
+* Important concepts, such as Research Data Management and Digital Preservation
+* Showcase the large variety of possibilities in the realm of tech-related jobs in libraries and archives
+<br>
+### Participants will also
+* Develop relationships and possibly build a mentorship relationship with one of the professional
+* Have access to documents presenting different professionals and wath their days look like
+* Have a practical approach to discovering new technology
+* Be presented technologies that are used by different librarians and archivists
+<br>
+### The goal of this program is...
+To give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
 
 ## Quick Links
 [Click here for the Schedule](https://claraturp.github.io/BiblioTECH/schedule.html) <br>
 [Click here to apply](https://claraturp.github.io/BiblioTECH/applicationProcess.html) <br>
 
 ## Important information
-### This program is bilingual
-We are committed to making this program bilingual, however, because this year is a pilot, we will offer the workshops and pannels in one language and offer documentation in the other language. For example, the Python workshop will be given in English, but all course notes will be available in either French or English. The instructors or helpers will be able to answer questions in either language. 
-### This program is a pilot
-
-### This program will be offered virtually and live
-
-### We will accept about 15 students
+* It is free!
+* It is bilingual (French and English), however sessions will be offered in one language with documents shared in both languages.
+* This year, the program will be a pilot. We will be requesting feedback.
+* This program will be offered simultaneously online, using Zoom
+* We will accept about between 10 and 15 participants
 
 ## DELETE THIS
 [Click here for information about MARKDOWN language](https://claraturp.github.io/BiblioTECH/markdown.html)
