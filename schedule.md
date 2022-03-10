@@ -14,7 +14,10 @@
 ### Welcome
 #### 11:30 AM - 12:30 PM <br>
 
+<details>
+  <summary>Description</summary>
 Introductions, overview of the plan for the week and how office hours, asynchronous content will work. 
+  </details>
 
 ### Basics of Data Management - With Alisa Beth Rod
 #### 12:45 PM - 1:45 PM <br>
