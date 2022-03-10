@@ -1,6 +1,6 @@
 # Welcome to BiblioTECH
 # August 8th 2022 - August 12th 2022.
-[Cliquez ici pour accéder au site en français](https://claraturp.github.io/BiblioTECH/index_fr.html)  
+[Cliquez ici pour accéder au site en français](https://claraturp.github.io/Website_Test/)  
 
 
 ## About BiblioTECH
