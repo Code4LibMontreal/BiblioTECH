@@ -1,6 +1,7 @@
 # Welcome to BiblioTECH
-# August 8th 2022 - August 12th 2022.
 <a href="https://claraturp.github.io/Programme-BiblioTECH/" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Cliquez ici pour accéder au site en français</a>
+
+# August 8th 2022 - August 12th 2022.
 
 
 ## About BiblioTECH
@@ -21,8 +22,7 @@ This program was based on the <a href="https://www.lib.ncsu.edu/jumpstart" style
 * Have a practical approach to discovering new technology
 * Be presented technologies that are used by different librarians and archivists
 
-**The goal of this program is** <br>
-To give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
+**The goal of this program is** to give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
 
 ## Important information
 * It is free!
