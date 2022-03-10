@@ -1,4 +1,4 @@
-# Welcome to BiblioTECH
+# **Welcome to BiblioTECH**
 <a href="https://claraturp.github.io/Programme-BiblioTECH/" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Cliquez ici pour accéder au site en français</a>
 
 # August 8th 2022 - August 12th 2022.
