@@ -10,8 +10,3 @@ Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program** tha
 
 This week-long bilingual program is designed for students in the Masters of Information Studies programs in Quebec. It will be offered virtually. 
 This program was based on the [Library Technology career Jumpstart Program at North Carolina State University](https://www.lib.ncsu.edu/jumpstart)
-
-## Quick Links
-[About BiblioTECH](https://claraturp.github.io/BiblioTECH/about.html)<br>
-[Schedule](https://claraturp.github.io/BiblioTECH/schedule.html)<br>
-[Apply](https://claraturp.github.io/BiblioTECH/application.html)<br>
