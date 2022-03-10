@@ -25,7 +25,8 @@ This program was based on the [Library Technology career Jumpstart Program at No
 To give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
 
 ## Quick Links
-[Click here for the Schedule](https://claraturp.github.io/BiblioTECH/schedule.html) 
+[Click here for the Schedule](https://claraturp.github.io/BiblioTECH/schedule.html)  
+
 [Click here to apply](https://claraturp.github.io/BiblioTECH/applicationProcess.html)
 
 ## Important information
