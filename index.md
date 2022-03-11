@@ -1,8 +1,6 @@
 # **Welcome to BiblioTECH**
 [Cliquez ici pour accéder au site en français](https://claraturp.github.io/Programme-BiblioTECH/) <br>
-<a href="https://claraturp.github.io/Programme-BiblioTECH/" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Cliquez ici pour accéder au site en français</a>
 # August 8th 2022 - August 12th 2022.
-
 
 ## About BiblioTECH
 
@@ -10,6 +8,8 @@ Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program** tha
 
 This week-long bilingual program is designed for students in the Masters of Information Studies programs in Quebec. It will be offered virtually. 
 This program was based on the [Library Technology career Jumpstart Program at North Carolina State University.](https://www.lib.ncsu.edu/jumpstart)
+
+[Apply](add link here){: .btn .btn-blue }
 
 **This program will introduce participants to**
 * Core tech skills, such as Git, Excel, OpenRefine and Python
