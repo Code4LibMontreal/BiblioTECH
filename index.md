@@ -1,8 +1,7 @@
-# **Welcome to BiblioTECH**
+# Welcome to BiblioTECH
 [Cliquez ici pour accéder au site en français](https://claraturp.github.io/Programme-BiblioTECH/) <br>
-# August 8th 2022 - August 12th 2022.
-
-## About BiblioTECH
+## August 8th 2022 - August 12th 2022.
+### About BiblioTECH
 
 Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program** that will occur from August 8th  to August 12th, 2022.  
 
@@ -24,7 +23,7 @@ This program was based on the [Library Technology career Jumpstart Program at No
 
 **The goal of this program is** to give participants the tools and confidence to pursue tech-related careers and demonstrate how this knowledge can be useful across a variety of information science roles.
 
-## Important information
+### Important information
 * It is free!
 * It is bilingual (French and English), however sessions will be offered in one language with documents shared in both languages.
 * This year, the program will be a pilot. We will be requesting feedback.
