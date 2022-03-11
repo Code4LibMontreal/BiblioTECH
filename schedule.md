@@ -1,12 +1,12 @@
 # Schedule
-<a href="https://claraturp.github.io/BiblioTECH/" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Return to the home page</a>
+[Return to the home page](https://claraturp.github.io/BiblioTECH/)
 
 ### Table of Content
-1. <a href="#Monday" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Day 1: August 8th</a>
-2. <a href="#Tuesday" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Day 2: August 9th</a>
-3. <a href="#Wednesday" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Day 3: August 10th</a>
-4. <a href="#Thursday" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Day 4: August 11th</a>
-5. <a href="#Friday" style="font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; color:blue; font-size: 1rem">Day 5: August 12th</a>
+1. [Day 1: August 8th](#Monday)
+2. [Day 2: August 9th](#Tuesday)
+3. [Day 3: August 10th](#Wednesday)
+4. [Day 4: August 11th](#Thursday)
+5. [Day 5: August 12th](#Friday)
 
 ## Monday, August 8th 2022 <a name="Monday"></a>
 
