@@ -123,7 +123,7 @@ This session will cover a few key concepts in digital preservation and will incl
 
 <details>
   <summary>Description</summary>
-This workshop will introduce participants to web archiving by comparing two tools commonly used by archivists, Archive-It and Conifer. The workshop will cover some basic terminology and concepts in web archiving, features and use cases for each tool, and challenges that the presenters have faced in creating web collections.
+This workshop will introduce participants to web archiving by comparing two tools commonly used by archivists, [Archive-It](https://archive-it.org/) and [Conifer](https://conifer.rhizome.org/). The workshop will cover some basic terminology and concepts in web archiving, features and use cases for each tool, and challenges that the presenters have faced in creating web collections.
   </details>
 
 ### Closing Remarks
