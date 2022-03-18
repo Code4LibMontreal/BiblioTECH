@@ -118,12 +118,12 @@ A show and tell session where the speakers will present the most useful technolo
 This session will cover a few key concepts in digital preservation and will include a demonstration of preservation actions performed with various open-source, such as Archivematica.
   </details>
 
-### Web Archiving
+### Web Archiving - With Sarah Lake and Adria Seccareccia
 #### 4:15 - 5:15 PM
 
 <details>
   <summary>Description</summary>
-This workshop will introduce participants to web archiving: it will include hands-on practice with web archiving tools, examples of use cases for archivists, and ethical and logistical issues to consider when planning a web archiving project.
+This workshop will introduce participants to web archiving by comparing two tools commonly used by archivists, Archive-It and Conifer. The workshop will cover some basic terminology and concepts in web archiving, features and use cases for each tool, and challenges that the presenters have faced in creating web collections.
   </details>
 
 ### Closing Remarks
