@@ -21,7 +21,7 @@ Introductions, overview of the plan for the week and how office hours, asynchron
 ### Basics of Data Management - With Alisa Beth Rod
 #### 12:45 PM - 1:45 PM <br>
 
-### Git and GitHub
+### Git and GitHub - with Scott Goldstein
 #### 3:00 PM - 4:00 PM & 4:15 - 5:15 PM <br>
 
 <details>
@@ -37,7 +37,7 @@ Introductions, overview of the plan for the week and how office hours, asynchron
 ### Daily Check-In
 #### 12:00 - 12:30 PM <br>
 
-### Career Paths in Library Technology, Panel 
+### Career Paths in Library Technology, Panel - with Jessica Lange, Christine Smith, Sandy Hervieux, Cinzia Di Labio, Robin Desmeules, and Mireille Nappert
 #### 12:45 - 1:45 PM
 
 <details>
@@ -59,7 +59,7 @@ Speakers will discuss their career paths from library school to their current jo
 ### Daily Check-In
 #### 12:00 - 12:30 PM
 
-### What I Didn't Know When I Started, Panel 
+### What I Didn't Know When I Started, Panel - with Anna Dysert, Sarah Lake, Ève Paquette-Bigras, Carolyn Pecoskie, Mireille Léger Rousseau, and Aline Credeville
 #### 12:45 - 1:45 PM
 
 <details>
@@ -78,7 +78,7 @@ Speakers will present a few things they wish they knew when they started. Each p
 ### Daily Check-In
 #### 12:00 - 12:30 PM <br>
 
-### Applying To Your First Library Technology Job  
+### Applying To Your First Library Technology Job - with Christine Smith and Andrew Senior
 #### 12:45 - 1:45 PM
 
 <details>
