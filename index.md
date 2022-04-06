@@ -5,7 +5,7 @@
 
 Code4Lib Mtl is proud to announce the first **BiblioTECH Jumpstart Program**, which is planned for the week of August 8th to August 12th, 2022.  
 
-This week-long bilingual program is designed for students in Masters of Information Studies programs in Quebec. BiblioTECH will be offered virtually via zoom. 
+This week-long bilingual program is designed for students in Masters of Information Studies programs in Quebec, Canada. BiblioTECH will be offered virtually via zoom. 
 This program is based on the [Library Technology career Jumpstart Program at North Carolina State University.](https://www.lib.ncsu.edu/jumpstart)
 
 [Apply](https://surveys.mcgill.ca/ls3/447491?lang=en){: .btn .btn-blue }
