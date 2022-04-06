@@ -1,5 +1,5 @@
 # Schedule
-[Return to the home page](https://claraturp.github.io/BiblioTECH/)
+[Return to the home page](https://code4libmontreal.github.io/BiblioTECH/)
 
 ### Table of Content
 1. [Day 1: August 8th](#Monday)
@@ -15,18 +15,22 @@
 
 <details>
   <summary>Description</summary>
-Introductions, overview of the plan for the week and how office hours, asynchronous content will work. 
+Introductions, overview of the plan for the week, and instructions regarding office hours and asynchronous content. 
   </details>
 
-### Basics of Data Management - With Alisa Beth Rod
+### Managing and Organizing Data - With Alisa Rod
 #### 12:45 PM - 1:45 PM <br>
-
+<details>
+  <summary>Description</summary>
+This workshop will provide attendees with an overview of the best practices for efficiently managing data during the research process. This workshop will provide attendees with practical tips and examples on how to organize data across files and folders, set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention.
+      </details>
+      
 ### Git and GitHub - with Scott Goldstein
 #### 3:00 PM - 4:00 PM & 4:15 - 5:15 PM <br>
 
 <details>
   <summary>Description</summary>
-**Begin** to understand and use Git/GitHub. You will not be an expert by the end of the class. You will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.
+**Begin** to understand and use Git/GitHub. This session is not intended to produce expertise by the end of the class. Attendees will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.
     </details>
 
 ### Office Hours (optional)
@@ -37,12 +41,12 @@ Introductions, overview of the plan for the week and how office hours, asynchron
 ### Daily Check-In
 #### 12:00 - 12:30 PM <br>
 
-### Career Paths in Library Technology, Panel - with Jessica Lange, Christine Smith, Sandy Hervieux, Cinzia Di Labio, Robin Desmeules, and Mireille Nappert
+### Career Paths in Library Technology, Panel 
 #### 12:45 - 1:45 PM
 
 <details>
   <summary>Description</summary>
-Speakers will discuss their career paths from library school to their current jobs. Panelists will offer advice based on what helped them land their current roles, they will also help you understand what are the key required skills for their current position, and what they would have done differently with their current knowledge.
+Guest speakers will discuss their career paths from library school to their current jobs. The panelists will provide details on the key required technological skills for their current position, and whether they would have done anything differently to be prepared for their current roles.
   </details>
   
 ### Excel: Clean Up Messy Data - With Robin Desmeules and Carolyn Pecoskie
@@ -59,12 +63,12 @@ Speakers will discuss their career paths from library school to their current jo
 ### Daily Check-In
 #### 12:00 - 12:30 PM
 
-### What I Didn't Know When I Started, Panel - with Anna Dysert, Sarah Lake, Ève Paquette-Bigras, Carolyn Pecoskie, Mireille Léger Rousseau, and Aline Credeville
+### What I Didn't Know When I Started, Panel 
 #### 12:45 - 1:45 PM
 
 <details>
   <summary>Description</summary>
-Speakers will present a few things they wish they knew when they started. Each panelist will share one moment when they felt at a loss and what they did to overcome it or what they learned through that experience.
+Panelists will present reflections on what they wish they knew when they first started working in technological library roles. Each panelist will share one moment when they felt at a loss and what they did to overcome that situation or what they learned through that experience.
   </details>
   
 ### Q&A
@@ -107,7 +111,7 @@ This workshop is an introduction to Python. You will write Python code, using a 
 
 <details>
   <summary>Description</summary>
-A show and tell session where the speakers will present the most useful technology in their job or the in-house technology they work with.
+A show and tell session where the speakers will present the most useful technology for their job or the in-house technology they work with.
   </details>
   
 ### Digital Preservation - With Sarah Lake
@@ -115,7 +119,7 @@ A show and tell session where the speakers will present the most useful technolo
 
 <details>
   <summary>Description</summary>
-This session will cover a few key concepts in digital preservation and will include a demonstration of preservation actions performed with various open-source, such as Archivematica.
+This session will cover a few key concepts in digital preservation and will include a demonstration of preservation actions performed with various open-source projects, such as Archivematica.
   </details>
 
 ### Web Archiving - With Sarah Lake and Adria Seccareccia
