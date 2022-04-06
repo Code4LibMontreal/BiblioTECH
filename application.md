@@ -1,4 +1,4 @@
-# Applying to the BiblioTECH Program
+# Applying to BiblioTECH
 [Return to home page](https://code4libmontreal.github.io/BiblioTECH/)
 
 ## About the process
