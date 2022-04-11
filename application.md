@@ -12,5 +12,5 @@ We welcome all applications from any student currently enrolled in a Masters of 
 
 ## Important dates: 
 * April: Call for applications
-* May: deadline for applications
+* May 9th 2022, 11:59 PM EDT: deadline for applications
 
