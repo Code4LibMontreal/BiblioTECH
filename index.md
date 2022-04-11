@@ -17,7 +17,7 @@ This program is based on the [Library Technology career Jumpstart Program at Nor
 
 **Participants will also**
 * Network with technology-focused information professionals in Quebec
-* Have access to resources that provide an overview of a "day in the life" of technology-focused librarians and archivisits
+* Have access to resources that provide an overview of a "day in the life" of these professionals
 * Gain practical experience discovering new technologies
 * Learn about current technologies that are used in libraries and archives
 
